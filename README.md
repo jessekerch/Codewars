@@ -1,1 +1,2 @@
-# Codewars
+# codewars
+# exercises to practice Ruby!
